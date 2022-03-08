@@ -18,3 +18,8 @@ img {
     width: 500px;
     height: auto;
 }
+
+.dish {
+    background: linear-gradient(to right, cornflowerblue, white);
+    width: 500px;
+}
